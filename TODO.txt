@@ -1,0 +1,94 @@
+no more wood/stone tools instead you will need a flint tool first
+flint tools have almost no durability and are slow, but with them, you can break coal and iron[???]
+
+remove all armor recipes
+add 2 types of armor for each ore:
+-light armor (has less defence but allows running)
+-heavy armor (has more defence, but you can only walk)
+all armors are crafted with leather armor and can craft light or heavy armor based on the amount of ores surrounding them
+
+add recipe for 2 slabs to 1 block
+add recipe to turn stairs back to block(2 stairs into 1 block [and 1 slab])
+sand in blast furnaces
+change door recipe to give only 1 door
+
+remove all ores/ingots from all loot tables
+villagers do not sell enchanted gear?
+villagers do not sell diamond gear
+
+anvils do not enchant weapons with books anymore
+enchanting books can only be used with an {block_name} which is craftable from netherite and diamond
+enchanting table only enchant diamond tools[???]
+
+remove all netherite recipes
+netherite will have a darkish gold texture or a gold with dark spots
+netherite can be used for:
+-craft a diamond sword with a netherite handle
+-[think of things which would be nice taken the list bellow into consideration]
+-[...]
+
+ore principles:
+    flint is the most basic material(meaning it can do shit XD)
+    iron is the most workable material(meaning you can do lots of stuff with it)
+    copper(won't mess with it)
+    redstone(won't mess with it)
+    diamond is the hardest and most powerful material(meaning its great for dealing and protecting)(also it is the only material which has magical properties)
+    gold is the lightest material(meaning it is good for making stuff quickly)
+    netherite is the most adaptable material(meaning it enhances the properties of other materials)
+
+nerf the hell out of iron equipments or buff the hell out of diamond equipments or both >:)
+
+The shield will be replaced by a collection of shields with minecraft progression system in mind
+arrows reduce the durability of shield by A LOT
+these shields will reduce the damage taken by some percentage based on its material
+
+The player can only attack when after the attack cooldown has ended[???]
+Beds will now act as Terraria by only setting the player spawn point
+
+all foods stack to 1 >:)
+The player now naturally regenerates health down until a hunger level of 7 instead of 18[???]
+
+doors break when on water
+any block that stops water either breaks or gets filled with water(I don't think I will be able to do that)
+add another bubble block which allow for player passage and water blockage
+
+cows, sheeps, pigs, etc. are neutral now(like wolfs) or they run away from the player(a lot, and not in circles, I mean wtf mojang)
+
+[things I want to add but don't think I actually will]:
+    Sweep attack Is now only performed by a weapon enchanted with Sweeping Edge
+    Spamming the attack button gives players slowness[???]
+    knock back a mob by the amount of damage dealt
+    reduce the radius shields blocks
+
+    zombies breaking doors attracts other mobs
+    zombies can break trapdoors
+    zombies can climb ladders
+    remove brightness slider
+    mobs will attempt parkour
+    villages & villagers will need a rework
+    mobs follow lights
+    mobs can track the player to the last seen location
+    Mobs now group up and can be found in the wild at night
+    enemies spawn rate are significantly increased
+
+    stronghold will hold a nether portal:
+    -portal room will contain a 5x5 portal made of crying obsidian
+    -in the middle of the portal (3x0,0x3,5x3,3x5) will be one block (obsidian themed) that's unbreakable(???)
+    -the player has to remove the crying obsidian from the portal and replace with smooth obsidian(or something akin) to ignite the portal
+
+    end:
+    -upon reaching the end you will get a breath timer
+
+    ocean monuments:
+    -upon killing all elder guardian the player starts to hear lots of thunders from the sky
+    -fights a boss and get equipment? enchant? something? a block which generate a breathable area in the end?
+
+    end can be accessed through breaking bedrock
+
+[thing to inquire]:
+    clock functionality?:
+        -by that I mean instead of only displaying the general time they display the exact time, like terraria
+        -some events only trigger at certain times
+    how can I make minecarts usable?:
+        golden minecarts?
+        slime sticks carts together
