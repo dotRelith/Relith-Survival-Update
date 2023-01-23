@@ -7,10 +7,10 @@ add 2 types of armor for each ore:
 -heavy armor (has more defence, but you can only walk)
 all armors are crafted with leather armor and can craft light or heavy armor based on the amount of ores surrounding them
 
-add recipe for 2 slabs to 1 block
+✔ add recipe for 2 slabs to 1 block ✔
 add recipe to turn stairs back to block(2 stairs into 1 block [and 1 slab])
-sand in blast furnaces
-change door recipe to give only 1 door
+✔ sand in blast furnaces ✔
+✔ change door recipe to give only 1 door ✔
 
 remove all ores/ingots from all loot tables
 villagers do not sell enchanted gear?
@@ -45,8 +45,11 @@ these shields will reduce the damage taken by some percentage based on its mater
 The player can only attack when after the attack cooldown has ended[???]
 Beds will now act as Terraria by only setting the player spawn point
 
-all foods stack to 1 >:)
-The player now naturally regenerates health down until a hunger level of 7 instead of 18[???]
+✔ all foods stack to 1 >:) ✔
+The player now naturally regenerates health down until a hunger level of 10 instead of 18[???]
+the regeneration will be A LOT SLOWER than before
+✔ cows/pigs/sheeps/etc. drop 1 uncooked food ✔
+crops take longer to grow
 
 doors break when on water
 any block that stops water either breaks or gets filled with water(I don't think I will be able to do that)

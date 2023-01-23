@@ -3,7 +3,8 @@
 	"package": "dot.relith.rsu.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [
-		"SurvivalUpdateModCommonMixin"
+		"SurvivalUpdateModCommonMixin",
+		"FoodItemMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
